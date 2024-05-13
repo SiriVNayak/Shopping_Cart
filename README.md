@@ -1,2 +1,2 @@
 # Shopping_Cart
-Spring Boot Base Project and using H2 as database
+Spring Boot Base Project and using MySQL as database
